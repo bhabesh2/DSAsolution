@@ -37,4 +37,4 @@ function minJumps(arr,n){
 let arr = [1,3,5,8,9,2,6,7,6,8,9];
 let n = arr.length;
 let ans = minJumps(arr,n);
-console.log(ans)
+console.log(ans);
