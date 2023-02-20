@@ -34,4 +34,4 @@ return arr;
 let arr = [0,2,1,2,0];
 let n = arr.length;
 let ans = sort012(arr,n);
-console.log(ans)
+console.log(ans);
